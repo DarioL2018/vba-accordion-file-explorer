@@ -1,0 +1,6 @@
+# Office Temporary Files
+~$*.doc*
+~$*.dot*
+
+# VBA Export files that are redundant
+*.frx
